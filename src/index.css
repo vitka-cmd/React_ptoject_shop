@@ -1,0 +1,10 @@
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  
+  background-color:#242424 ;
+  color: white;
+}
